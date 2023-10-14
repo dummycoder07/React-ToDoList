@@ -1,0 +1,36 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "This is Todo-list using React.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dummycoder07/React-ToDoList.git"
+  },
+  "keywords": [
+    "React",
+    "TodoList",
+    "Aman",
+    "Sharma"
+  ],
+  "author": "Aman Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dummycoder07/React-ToDoList/issues"
+  },
+  "homepage": "https://github.com/dummycoder07/React-ToDoList#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
